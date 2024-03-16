@@ -32,7 +32,7 @@ or email at : nikko.zabala@gmail.com
 
     <header class="header">
         <hgroup>
-            <a title="Click here" href="it.html">
+            <a title="Click here" href="it-department">
                 <h1 class="p-apps">PERSONIV APPS</h1>
 
                 <small class="itd">Information & Technology Department</small>
